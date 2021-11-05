@@ -1,0 +1,18 @@
+Algorithm for this project:
+1- display operations to the user
+
+2- Get user request
+
+3- execute that function refer to the request
+
+4- check the machine resources is enough for the request executed or not
+# if yes then:
+     Get money from the user
+     if money is enough for request
+          purchase()
+          recursion for program
+     else:
+          display : The you have no enough money
+
+
+
