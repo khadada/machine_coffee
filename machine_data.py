@@ -1,8 +1,8 @@
 machine_resources = {
     'water': 300,
     'coffee': 200,
-    'milk': 100,
-    'money': 10,
+    'milk': 150,
+    'money': 0,
 }
 
 latte = {
